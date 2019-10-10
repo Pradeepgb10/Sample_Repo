@@ -15,6 +15,6 @@ def greet(who_to_greet):
     return greeting
 
 res = "Function completed"
-
+print("Additional print")
 print(res)
 print("End of file")
